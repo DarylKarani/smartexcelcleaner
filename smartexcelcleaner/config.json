@@ -1,0 +1,6 @@
+{
+    "remove_duplicates": true,
+    "format_dates": "YYYY-MM-DD",
+    "calculate_missing_totals": true,
+    "sort_by_date": true
+}
